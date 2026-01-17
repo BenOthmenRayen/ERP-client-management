@@ -2,7 +2,7 @@
 
 A comprehensive full-stack Enterprise Resource Planning (ERP) system for managing clients, orders, invoices, payments, and support tickets with real-time analytics dashboard.
 
-## ✨ Features
+## Features
 
 ### 📊 Dashboard
 - **Real-time Analytics** - Key metrics for revenue, clients, orders, and invoices
@@ -127,6 +127,4 @@ Before you begin, ensure you have the following installed:
   - Or use MongoDB Atlas (cloud database)
 - **Git:** Latest version ([Download](https://git-scm.com/))
 - **Angular CLI:** v17.x or higher
-  ```bash
-  npm install -g @angular/cli
-  ```
+
